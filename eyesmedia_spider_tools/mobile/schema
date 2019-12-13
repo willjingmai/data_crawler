@@ -1,0 +1,26 @@
+{
+    "_id" : ObjectId("5ddba26cba4d5492d3fb7f84"),
+    "crt_date" : ISODate("2019-11-25T17:38:34.160Z"),
+    "mdy_date" : ISODate("2019-11-25T17:38:34.160Z"),
+    "job_type" : "mobile01",
+    "job_data" : {
+        "boards" : [ 
+            {
+                "name" : "car",
+                "start" : ISODate("2019-11-25T17:38:34.160Z"),
+                "end" : ISODate("2019-11-25T17:38:34.160Z")
+            }, 
+            {
+                "name" : "living",
+                "start" : ISODate("2019-11-25T17:38:34.160Z"),
+                "end" : ISODate("2019-11-25T17:38:34.160Z")
+            }, 
+            {
+                "name" : "audio",
+                "start" : ISODate("2019-11-25T17:38:34.160Z"),
+                "end" : ISODate("2019-11-25T17:38:34.160Z")
+            }
+        ]
+    },
+    "job_status" : 0.0
+}

@@ -1,0 +1,9 @@
+#爬mobile01, 僅限於car, living, audio 三個版
+cd mobile
+python mobile_crawler.py -b "borad_you_want_to_crawl" -i "how_many_page_you_wanna_crawl"
+
+
+
+#爬ptt
+cd ptt
+python ptt_crawler.py -b "board_you_wanna_crawl" -i "start_page" "end_page"
